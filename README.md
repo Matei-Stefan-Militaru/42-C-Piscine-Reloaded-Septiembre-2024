@@ -13,18 +13,18 @@
 | 10     | [ft_swap.c](ex10/ft_swap.c)   | ✅       |
 | 11     | [ft_div_mod.c](ex11/ft_div_mod.c)   | ✅       |
 | 12     | [ft_iterative_factorial.c](ex12/ft_iterative_factorial.c)   |  ✅     |
-| 00     | [ft_recursive_factorial.c](ex13/ft_recursive_factorial.c)  | ✅       |
-| 01     | [ft_sqrt.c](ex14/ft_sqrt.c) | ✅       |
-| 02     | [ft_putstr.c](ex15/ft_putstr.c)  | ✅       |
-| 03     | [ft_strlen.c](ex16/ft_strlen.c)  | ✅       |
-| 04     | [ft_strcmp.c](ex17/ft_strcmp.c)  | ✅       |
-| 05     | [ft_print_params.c](ex18/ft_print_params.c)   | ✅       |
-| 06     | [ft_sort_params.c](ex19/ft_sort_params.c)   | ✅       |
-| 07     | [ft_strdup.c](ex20/ft_strdup.c)    | ✅       |
-| 08     | [ ft_range.c](ex21/ ft_range.c)   | ✅       |
-| 09     | [ft_abs.h](ex22/ft_abs.h)   | ✅       |
-| 10     | [ft_point.h](ex23/ft_point.h)   | ✅       |
-| 11     | [Makefile](ex24/Makefile)   | ✅       |
-| 12     | [ft_foreach.c](ex25/ft_foreach.c)   |  ✅      |
-| 00     | [ft_count_if.c](ex26/ft_count_if.c)  | ✅       |
-| 01     | [Makefile, ft_display_file.c](ex27/Makefile, ex27/ft_display_file.c) | ✅       |
+| 13     | [ft_recursive_factorial.c](ex13/ft_recursive_factorial.c)  | ✅       |
+| 14     | [ft_sqrt.c](ex14/ft_sqrt.c) | ✅       |
+| 15     | [ft_putstr.c](ex15/ft_putstr.c)  | ✅       |
+| 16     | [ft_strlen.c](ex16/ft_strlen.c)  | ✅       |
+| 17     | [ft_strcmp.c](ex17/ft_strcmp.c)  | ✅       |
+| 18     | [ft_print_params.c](ex18/ft_print_params.c)   | ✅       |
+| 19     | [ft_sort_params.c](ex19/ft_sort_params.c)   | ✅       |
+| 20     | [ft_strdup.c](ex20/ft_strdup.c)    | ✅       |
+| 21     | [ft_range.c](ex21/ft_range.c)   | ✅       |
+| 22     | [ft_abs.h](ex22/ft_abs.h)   | ✅       |
+| 23     | [ft_point.h](ex23/ft_point.h)   | ✅       |
+| 24     | [Makefile](ex24/Makefile)   | ✅       |
+| 25     | [ft_foreach.c](ex25/ft_foreach.c)   |  ✅      |
+| 26     | [ft_count_if.c](ex26/ft_count_if.c)  | ✅       |
+| 27     | [ex27](ex27) | ✅       |
